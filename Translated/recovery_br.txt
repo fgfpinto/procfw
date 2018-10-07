@@ -1,6 +1,6 @@
 Menu Recovery PRO
 Menu Principal
-Dar entrada
+Entrar
 Sair
 Voltar
 Padrão
@@ -97,3 +97,4 @@ China
 Modo Debug I
 Modo Debug II
 Liberar memoria adicional
+Use o  mac.txt no /seplugins
